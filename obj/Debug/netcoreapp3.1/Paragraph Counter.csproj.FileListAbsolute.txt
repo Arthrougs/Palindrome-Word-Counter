@@ -1,0 +1,26 @@
+C:\Users\Connor\Desktop\Paragraph Counter\bin\Debug\netcoreapp3.1\Paragraph Counter.exe
+C:\Users\Connor\Desktop\Paragraph Counter\bin\Debug\netcoreapp3.1\Paragraph Counter.deps.json
+C:\Users\Connor\Desktop\Paragraph Counter\bin\Debug\netcoreapp3.1\Paragraph Counter.runtimeconfig.json
+C:\Users\Connor\Desktop\Paragraph Counter\bin\Debug\netcoreapp3.1\Paragraph Counter.runtimeconfig.dev.json
+C:\Users\Connor\Desktop\Paragraph Counter\bin\Debug\netcoreapp3.1\Paragraph Counter.dll
+C:\Users\Connor\Desktop\Paragraph Counter\bin\Debug\netcoreapp3.1\Paragraph Counter.pdb
+C:\Users\Connor\Desktop\Paragraph Counter\obj\Debug\netcoreapp3.1\Paragraph Counter.csprojAssemblyReference.cache
+C:\Users\Connor\Desktop\Paragraph Counter\obj\Debug\netcoreapp3.1\Paragraph Counter.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Desktop\Paragraph Counter\obj\Debug\netcoreapp3.1\Paragraph Counter.AssemblyInfoInputs.cache
+C:\Users\Connor\Desktop\Paragraph Counter\obj\Debug\netcoreapp3.1\Paragraph Counter.AssemblyInfo.cs
+C:\Users\Connor\Desktop\Paragraph Counter\obj\Debug\netcoreapp3.1\Paragraph Counter.dll
+C:\Users\Connor\Desktop\Paragraph Counter\obj\Debug\netcoreapp3.1\Paragraph Counter.pdb
+C:\Users\Connor\Desktop\Paragraph Counter\obj\Debug\netcoreapp3.1\Paragraph Counter.genruntimeconfig.cache
+C:\Users\Connor\Desktop\Palindrome\bin\Debug\netcoreapp3.1\Paragraph Counter.exe
+C:\Users\Connor\Desktop\Palindrome\bin\Debug\netcoreapp3.1\Paragraph Counter.deps.json
+C:\Users\Connor\Desktop\Palindrome\bin\Debug\netcoreapp3.1\Paragraph Counter.runtimeconfig.json
+C:\Users\Connor\Desktop\Palindrome\bin\Debug\netcoreapp3.1\Paragraph Counter.runtimeconfig.dev.json
+C:\Users\Connor\Desktop\Palindrome\bin\Debug\netcoreapp3.1\Paragraph Counter.dll
+C:\Users\Connor\Desktop\Palindrome\bin\Debug\netcoreapp3.1\Paragraph Counter.pdb
+C:\Users\Connor\Desktop\Palindrome\obj\Debug\netcoreapp3.1\Paragraph Counter.csprojAssemblyReference.cache
+C:\Users\Connor\Desktop\Palindrome\obj\Debug\netcoreapp3.1\Paragraph Counter.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Desktop\Palindrome\obj\Debug\netcoreapp3.1\Paragraph Counter.AssemblyInfoInputs.cache
+C:\Users\Connor\Desktop\Palindrome\obj\Debug\netcoreapp3.1\Paragraph Counter.AssemblyInfo.cs
+C:\Users\Connor\Desktop\Palindrome\obj\Debug\netcoreapp3.1\Paragraph Counter.dll
+C:\Users\Connor\Desktop\Palindrome\obj\Debug\netcoreapp3.1\Paragraph Counter.pdb
+C:\Users\Connor\Desktop\Palindrome\obj\Debug\netcoreapp3.1\Paragraph Counter.genruntimeconfig.cache

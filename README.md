@@ -6,7 +6,7 @@
   Once the program is started, the user will be prompted to enter a paragraph that they would like to work with. 
   After giving input the user will then be prompted to select one of four menu options.
   
-  Each menu option corrisponds with the following task:
+  Each menu option corresponds with the following task:
   
   <ul>
   <li>Give the number of palindrome words</li>
@@ -22,17 +22,17 @@
     Accepts string input and formats to remove any special characters IE: periods, commas. It then sends the input string to a method for palindrome checking.
     Also specifies what character to split at for the CheckPalindromeCount method.
   
-  <h3>CheckPalindromeSetnance</h3>
+  <h3>CheckPalindromeSentence</h3>
     Accepts string input and calls the CheckPalindromeCount method, specifying that it splits the string on every period.
   
-  <h3>CheckUniqueWord</h3>
+  <h3>CheckUniqueWords</h3>
     Accepts string input and formats the string to remove any special characters. Uses a dictionary to keep track of unique words and the amount of times they occur in a key-value pair.
   
   <h3>CheckWordsWithLetter</h3>
     Accepts string input, then allows the user to input a letter to check how many words occur in the paragraph with the specified letter.
     
   <h3>CheckPalindromeCount</h3>
-    Accepts string and character parameters. The character parameter is used to split the input string into sections that can be used for palindrome checking. In the case of a space, individual words will be checked. In the case of a period full sentances will be checked.
+    Accepts string and character parameters. The character parameter is used to split the input string into sections that can be used for palindrome checking. In the case of a space, individual words will be checked. In the case of a period full sentences will be checked.
   
   <h3>ReverseString</h3>
     Accepts string input and returns a reversed version of that string.
@@ -48,6 +48,6 @@ You can run a .exe file from the Paragraph Counter/bin/Debug/netcoreapp3.1 folde
 
 OR
 
-Open the folder in VScode or alternativly you can open a command prompt within the folder. Bring up the terminal within VSCode - or in Windows command prompt while in the programs directory, type: <strong>dotnet run</strong>
+Open the folder in VScode or alternatively you can open a command prompt within the folder. Bring up the terminal within VSCode - or in Windows command prompt while in the programs directory, type: <strong>dotnet run</strong>
 
 This method requires the .NET Core SDK which can be downloaded here if needed: https://dotnet.microsoft.com/download

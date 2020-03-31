@@ -59,6 +59,8 @@ namespace Paragraph_Counter
         {
             int palindromeCount = 0;
             
+            input = Regex.Replace(input, "[^a-zA-Z.]+", "");
+
             //Remove all spaces from the paragraph.
             input = input.Replace(" ", "");
 
@@ -159,7 +161,7 @@ namespace Paragraph_Counter
                 if(isPalindrome)
                 {
                     count++;
-                    Console.Write(word + " ");
+                    //Console.Write(word + " ");
                 }
             }
             Console.WriteLine("");

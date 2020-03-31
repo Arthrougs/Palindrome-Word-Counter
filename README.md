@@ -37,7 +37,7 @@
   <h3>ReverseString</h3>
     Accepts string input and returns a reversed version of that string.
     
-  <h3>Print Menu</h3>
+  <h3>PrintMenu</h3>
     Prints out menu selection options and returns the options to the calling method. Utilizes Tryparse to convert the input to a string and prevent format and overflow exceptions.
 
 <h2>How to run</h2>

@@ -42,4 +42,12 @@
 
 <h2>How to run</h2>
 
-Download and unzip the repository. Open the folder in VScode or alternativly you can open a command prompt within the folder. Bring up the terminal within VSCode - or in Windows command prompt while in the programs directory, type: <strong>dotnet run</strong>
+Download and unzip the repository. 
+
+You can run a .exe file from the Paragraph Counter/bin/Debug/netcoreapp3.1 folder called Paragraph Counter.exe
+
+OR
+
+Open the folder in VScode or alternativly you can open a command prompt within the folder. Bring up the terminal within VSCode - or in Windows command prompt while in the programs directory, type: <strong>dotnet run</strong>
+
+This method requires the .NET Core SDK which can be downloaded here if needed: https://dotnet.microsoft.com/download

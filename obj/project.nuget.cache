@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eBF6VT0sWrkTzUBhNVmt8/VrvBhy1iKsxduHJOAEwFcj+7XXz5IRqnGnpXzQD/i/T4xLiPr8P6eDdnINIXlzmg==",
+  "dgSpecHash": "uEdM1k+lztaf0x7N436iPdJuh4bTSqnkpqPmDDoWV92HxSicP5+7t/9cTyNMG073jBjx82K73QGbgwFGdpSXaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Connor\\Desktop\\Palindrome\\Paragraph Counter.csproj",
+  "projectFilePath": "C:\\Users\\Connor\\Desktop\\Paragraph Counter\\Paragraph Counter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

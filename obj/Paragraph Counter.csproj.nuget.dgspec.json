@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Connor\\Desktop\\Palindrome\\Paragraph Counter.csproj": {}
+    "C:\\Users\\Connor\\Desktop\\Paragraph Counter\\Paragraph Counter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Connor\\Desktop\\Palindrome\\Paragraph Counter.csproj": {
+    "C:\\Users\\Connor\\Desktop\\Paragraph Counter\\Paragraph Counter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Connor\\Desktop\\Palindrome\\Paragraph Counter.csproj",
+        "projectUniqueName": "C:\\Users\\Connor\\Desktop\\Paragraph Counter\\Paragraph Counter.csproj",
         "projectName": "Paragraph Counter",
-        "projectPath": "C:\\Users\\Connor\\Desktop\\Palindrome\\Paragraph Counter.csproj",
+        "projectPath": "C:\\Users\\Connor\\Desktop\\Paragraph Counter\\Paragraph Counter.csproj",
         "packagesPath": "C:\\Users\\Connor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Connor\\Desktop\\Palindrome\\obj\\",
+        "outputPath": "C:\\Users\\Connor\\Desktop\\Paragraph Counter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Connor\\AppData\\Roaming\\NuGet\\NuGet.Config",

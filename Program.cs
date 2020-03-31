@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text.RegularExpressions;
+using System.Collections.Generic;
 
 namespace Paragraph_Counter
 {
@@ -9,7 +10,7 @@ namespace Paragraph_Counter
         {
             Console.WriteLine("Please enter a paragraph you would like to work with");
             var input = Console.ReadLine();
-            
+            input = input.ToLower();
             int menuSelection = PrintMenu();
             Console.Clear();
             
@@ -23,10 +24,10 @@ namespace Paragraph_Counter
                     CheckPalindromeSentance(input);
                     break;
                 case 3:
-                    CheckUniqueWords();
+                    CheckUniqueWords(input);
                     break;
                 case 4:
-                    CheckWordsWithLetter();
+                    CheckWordsWithLetter(input);
                     break;
                 default:
                     break;
@@ -57,13 +58,40 @@ namespace Paragraph_Counter
             Console.WriteLine("This Paragraph has "+ palindromeCount + " palindromes in it.");
         }
 
-        public static void CheckUniqueWords()
+        public static void CheckUniqueWords(String input)
         {
-            
+               //Map may be best for this one 
         }
-        public static void CheckWordsWithLetter()
+
+        public static void CheckWordsWithLetter(String input)
         {
+            bool shouldLoop = true;
             
+            while(shouldLoop)
+            {
+                Console.WriteLine("Please enter a letter - then I will list all the words that contain it: ");
+                String letterInput = Console.ReadLine();
+                letterInput = letterInput.ToLower();
+                var isCharacter = (letterInput.Length == 1);
+                
+                if(isCharacter)
+                {
+                    Console.WriteLine("Here is a list of words that contain the letter " + letterInput + ": ");
+                    foreach(string word in input.Split(' '))
+                    {
+                        if(word.Contains(letterInput))
+                        {
+                            //wordList.Add(word);
+                            Console.Write(word + " - "); //<---- Fix here so a '-' doesn't always apear at the end
+                        }
+                    }
+                    shouldLoop = false;
+                }
+                else
+                {
+                    Console.WriteLine("Please enter a single character.");
+                } 
+            }
         }
 
 
